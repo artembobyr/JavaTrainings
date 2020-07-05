@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Automation/DDT/DDT.iml" filepath="$PROJECT_DIR$/Automation/DDT/DDT.iml" group="Automation" />
+      <module fileurl="file://$PROJECT_DIR$/Automation/KDD/KDD.iml" filepath="$PROJECT_DIR$/Automation/KDD/KDD.iml" group="Automation" />
+      <module fileurl="file://$PROJECT_DIR$/Automation/Selenide/Selenide.iml" filepath="$PROJECT_DIR$/Automation/Selenide/Selenide.iml" group="Automation" />
+      <module fileurl="file://$PROJECT_DIR$/Automation/SeleniumGrid/SeleniumGrid.iml" filepath="$PROJECT_DIR$/Automation/SeleniumGrid/SeleniumGrid.iml" group="Automation" />
+      <module fileurl="file://$PROJECT_DIR$/Automation/Seren/Seren.iml" filepath="$PROJECT_DIR$/Automation/Seren/Seren.iml" group="Automation" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/Task12_Servlet/Servlet.iml" filepath="$PROJECT_DIR$/JAVA/Task12_Servlet/Servlet.iml" group="JAVA" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/Task3_array,strings/Task3_array,strings.iml" filepath="$PROJECT_DIR$/JAVA/Task3_array,strings/Task3_array,strings.iml" group="JAVA" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/Task4_OOP/Task4_OOP.iml" filepath="$PROJECT_DIR$/JAVA/Task4_OOP/Task4_OOP.iml" group="JAVA" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/Task5_enum/Task5_enum.iml" filepath="$PROJECT_DIR$/JAVA/Task5_enum/Task5_enum.iml" group="JAVA" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/Task6_Junit/TestJunit.iml" filepath="$PROJECT_DIR$/JAVA/Task6_Junit/TestJunit.iml" group="JAVA" />
+      <module fileurl="file://$PROJECT_DIR$/Automation/Waiters/Tests.iml" filepath="$PROJECT_DIR$/Automation/Waiters/Tests.iml" group="Automation" />
+      <module fileurl="file://$PROJECT_DIR$/Another/basicSpring/basicSpring.iml" filepath="$PROJECT_DIR$/Another/basicSpring/basicSpring.iml" group="another" />
+      <module fileurl="file://$PROJECT_DIR$/Automation/htmlElementsFramework/htmlElementsFramework.iml" filepath="$PROJECT_DIR$/Automation/htmlElementsFramework/htmlElementsFramework.iml" group="Automation" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/task10_java8/task10_java8.iml" filepath="$PROJECT_DIR$/JAVA/task10_java8/task10_java8.iml" group="JAVA" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/task11_HTTP/task11_HTTP.iml" filepath="$PROJECT_DIR$/JAVA/task11_HTTP/task11_HTTP.iml" group="JAVA" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/task8_collections/task8_collections.iml" filepath="$PROJECT_DIR$/JAVA/task8_collections/task8_collections.iml" group="JAVA" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/task9_multithreading/task9_multithreading.iml" filepath="$PROJECT_DIR$/JAVA/task9_multithreading/task9_multithreading.iml" group="JAVA" />
+    </modules>
+  </component>
+</project>
