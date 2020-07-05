@@ -1,0 +1,7 @@
+listeners/TestStatusListener.class
+com/epam/crm/perfuiframework/CRM3_AccessioningFlow.class
+com/epam/crm/perfuiframework/CRM2_ComplexFlow.class
+com/epam/crm/perfuiframework/PharmaDataMigration.class
+com/epam/crm/perfuiframework/DownloadFile.class
+com/epam/crm/perfuiframework/SetUpScenario.class
+com/epam/crm/perfuiframework/CRM1_PreAccessioningFlow.class

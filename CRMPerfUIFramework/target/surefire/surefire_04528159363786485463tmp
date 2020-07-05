@@ -1,0 +1,8 @@
+#surefire_0
+#Wed May 08 13:57:24 EEST 2019
+browser=chromeRemote
+user.dir=/Users/dmytro_tyrtyshnyi/GIT/performance-testing-ui/CRMPerfUIFramework
+idea.version=2018.2
+localRepository=/Users/dmytro_tyrtyshnyi/.m2/repository
+basedir=/Users/dmytro_tyrtyshnyi/GIT/performance-testing-ui/CRMPerfUIFramework
+test=CRM3_AccessioningFlow
