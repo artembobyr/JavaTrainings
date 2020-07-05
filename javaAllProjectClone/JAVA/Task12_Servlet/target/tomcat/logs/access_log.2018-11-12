@@ -1,6 +1,0 @@
-0:0:0:0:0:0:0:1 - - [12/Nov/2018:17:26:25 +0200] "GET / HTTP/1.1" 404 - http-bio-8081-exec-1 0
-0:0:0:0:0:0:0:1 - - [12/Nov/2018:17:26:49 +0200] "GET /Servlet HTTP/1.1" 302 - http-bio-8081-exec-3 0
-0:0:0:0:0:0:0:1 - - [12/Nov/2018:17:26:49 +0200] "GET /Servlet/ HTTP/1.1" 404 967 http-bio-8081-exec-5 9
-0:0:0:0:0:0:0:1 - - [12/Nov/2018:17:26:49 +0200] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8081-exec-6 0
-0:0:0:0:0:0:0:1 - - [12/Nov/2018:17:27:18 +0200] "GET /Servlet/calculator HTTP/1.1" 200 440 http-bio-8081-exec-7 321
-0:0:0:0:0:0:0:1 - - [12/Nov/2018:17:27:24 +0200] "POST /Servlet/calculator HTTP/1.1" 200 417 http-bio-8081-exec-9 3
