@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SeleniumGrid" />
+        <module name="Selenide" />
+        <module name="KDD" />
+        <module name="task11_HTTP" />
+        <module name="JDBS" />
+        <module name="htmlElementsFramework" />
+        <module name="customWaiters" />
+        <module name="TestJunit" />
+        <module name="basicSpring" />
+        <module name="Tests" />
+        <module name="Waiters" />
+        <module name="Servlet" />
+        <module name="DDT" />
+        <module name="Task12_Servlet" />
+        <module name="task12_Servlet" />
+        <module name="Task6_Junit" />
+        <module name="soapHosp" />
+        <module name="soapTV" />
+        <module name="Seren" />
+        <module name="BDD1" />
+        <module name="TestNG_JDBS" />
+        <module name="BDD" />
+        <module name="CustomWaiters" />
+      </profile>
+      <profile name="Annotation profile for log4j" enabled="true">
+        <sourceOutputDir name="../task7 log4j/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../task7 log4j/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="task7_log4j" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="14">
+      <module name="basicSpring" target="1.8" />
+      <module name="DDT" target="1.5" />
+      <module name="htmlElementsFramework" target="1.5" />
+      <module name="KDD" target="1.5" />
+      <module name="Selenide" target="1.5" />
+      <module name="selenium" target="14" />
+      <module name="SeleniumGrid" target="1.5" />
+      <module name="Seren" target="1.5" />
+      <module name="Servlet" target="7" />
+      <module name="task11_HTTP" target="7" />
+      <module name="Task12_Servlet" target="7" />
+      <module name="Task6_Junit" target="1.5" />
+      <module name="task7_log4j" target="1.5" />
+      <module name="Task_13_14_jdbc" target="1.8" />
+      <module name="TestJunit" target="1.5" />
+      <module name="Tests" target="6" />
+      <module name="Waiters" target="6" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="basicSpring" options="-parameters" />
+    </option>
+  </component>
+</project>

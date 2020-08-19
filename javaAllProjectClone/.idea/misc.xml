@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ArtemBobyr/Task12_Servlet/pom.xml" />
+        <option value="$PROJECT_DIR$/task7 log4j/pom.xml" />
+        <option value="$PROJECT_DIR$/Task6_Junit/pom.xml" />
+        <option value="$PROJECT_DIR$/task11_HTTP/pom.xml" />
+        <option value="$PROJECT_DIR$/Task12_Servlet/pom.xml" />
+        <option value="$PROJECT_DIR$/soap/pom.xml" />
+        <option value="$PROJECT_DIR$/soapTV/pom.xml" />
+        <option value="$PROJECT_DIR$/soapHosp/pom.xml" />
+        <option value="$PROJECT_DIR$/basicSelenium/pom.xml" />
+        <option value="$PROJECT_DIR$/htmlElementsFramework/pom.xml" />
+        <option value="$PROJECT_DIR$/Selenide/pom.xml" />
+        <option value="$PROJECT_DIR$/SeleniumGrid/pom.xml" />
+        <option value="$PROJECT_DIR$/JDBS/pom.xml" />
+        <option value="$PROJECT_DIR$/TestNG_JDBS/pom.xml" />
+        <option value="$PROJECT_DIR$/customWaiters/pom.xml" />
+        <option value="$PROJECT_DIR$/Waiters/pom.xml" />
+        <option value="$PROJECT_DIR$/BDD/pom.xml" />
+        <option value="$PROJECT_DIR$/DDT/pom.xml" />
+        <option value="$PROJECT_DIR$/KDD/pom.xml" />
+        <option value="$PROJECT_DIR$/BDD1/pom.xml" />
+        <option value="$PROJECT_DIR$/basicSpring/pom.xml" />
+        <option value="$PROJECT_DIR$/Task 13-14_jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/Automation/DDT/pom.xml" />
+        <option value="$PROJECT_DIR$/Automation/htmlElementsFramework/pom.xml" />
+        <option value="$PROJECT_DIR$/Automation/KDD/pom.xml" />
+        <option value="$PROJECT_DIR$/Automation/Selenide/pom.xml" />
+        <option value="$PROJECT_DIR$/Automation/SeleniumGrid/pom.xml" />
+        <option value="$PROJECT_DIR$/Automation/Seren/pom.xml" />
+        <option value="$PROJECT_DIR$/Automation/Waiters/pom.xml" />
+        <option value="$PROJECT_DIR$/Another/basicSpring/pom.xml" />
+        <option value="$PROJECT_DIR$/Another/seleniumMy/pom.xml" />
+        <option value="$PROJECT_DIR$/JAVA/task11_HTTP/pom.xml" />
+        <option value="$PROJECT_DIR$/JAVA/Task12_Servlet/pom.xml" />
+        <option value="$PROJECT_DIR$/JAVA/Task 13-14_jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/JAVA/Task6_Junit/pom.xml" />
+        <option value="$PROJECT_DIR$/JAVA/task7 log4j/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Task12_Servlet/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" default="true" project-jdk-name="14" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
